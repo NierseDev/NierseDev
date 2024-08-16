@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NierseDev
 - 👀 I’m interested in Game Development and Network / Network Security Development
 - 🌱 I’m currently learning Python, HTML, CSS, and C#
-- 📫 Antartica
+- 📫 Planet of Raxxla
 
 <n>You can support me by sending a donation here:</n>
 
